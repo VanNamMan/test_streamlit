@@ -8,6 +8,6 @@ add_selectbox = st.sidebar.selectbox(
     ("Image,Video","Goal")
 )
 
-st.image("a0.jpg","A0 FC")
+st.image("a0.jpg","A0 FC 2019")
 st.header("Welcome to A0 Football Club")
 st.button("Upload...")
